@@ -69,33 +69,6 @@ education:
             - Bullet point
             - Bullet point
 
- educationetc:
-     title: Continuing Education
-     info:
-      - degree: Applied Data Science 
-        university: <a href="https://eportfolio.mygreatlearning.com/michelle-m-hudson" target="_blank">Massachusetts Institute of Technology</a>
-        time: 2022 - Coursework included Data Analysis & Visualization, Linear & Logistic Regression, Neural Networks, and Recommendation Systems.
-        details: |
-
-      - degree: Carpentries Instructor Certification
-        university: <a href="https://carpentries.org/" target="_blank">The Carpentries</a>
-        time: Certified to teach Carpentries workshops!
-        details: |
-
-      - degree: Python for Everybody Certification
-        university: <a href="https://www.coursera.org/specializations/python" target="_blank">University of Michigan</a>
-        time: Finished the Python for Everybody Specialization series on Coursera
-        details: |
-
-      - degree: Fundamentals of Collection Assessment
-        university: <a href="https://www.ala.org/alcts/confevents/upcoming/webcourse/fca/ol_templ" target="_blank">American Library Association</a>
-        time: Six weeks of instruction on best practices and methods for collections assessment.
-        details: |
-
-      - degree: Advanced Legal Research
-        university: Yale Law School
-        time: Full course taught by excellent instructors as I began my work in Law Librarianship.
-        details: |
 
 experiences:
     title: Experience
