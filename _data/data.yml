@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -20,17 +20,17 @@ sidebar:
     twitter: '@michellehudson'
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-interests:
-  title: Continuing Education
-  info:
-    - item: Carpentries Instructor Certification
-      link:  <a href="https://carpentries.org/" target="_blank">The Carpentries</a>
+    interests:
+      title: Continuing Education
+      info:
+        - item: Carpentries Instructor Certification
+          link:  <a href="https://carpentries.org/" target="_blank">The Carpentries</a>
 
-    - item: Snowboarding
-      link:
+        - item: Snowboarding
+          link:
 
-    - item: Cooking
-      link:
+        - item: Cooking
+          link:
 
 career-profile:
     title: Professional Summary
@@ -44,7 +44,7 @@ education:
     info:
       - degree: Applied Data Science 
         university: <a href="https://eportfolio.mygreatlearning.com/michelle-m-hudson" target="_blank">Massachusetts Institute of Technology</a>
-        time: 2022 - Coursework included Data Analysis & Visualization, Linear & Logistic Regression, Neural Networks, and Recommendation Systems.
+        time: 2022 - Coursework included Data Analysis & Visualization, Linear & Logistic Regression, Neural Networks, and Recommendation Systems
         details: |
 
       - degree: MSc in Library and Information Science
