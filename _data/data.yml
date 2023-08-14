@@ -23,10 +23,8 @@ sidebar:
 interests:
   title: Continuing Education
   info:
-      - degree: Applied Data Science 
-        university: <a href="https://eportfolio.mygreatlearning.com/michelle-m-hudson" target="_blank">Massachusetts Institute of Technology</a>
-        time: 2022 - Coursework included Data Analysis & Visualization, Linear & Logistic Regression, Neural Networks, and Recommendation Systems.
-        details: |
+    - item: Carpentries Instructor Certification
+      link:  <a href="https://carpentries.org/" target="_blank">The Carpentries</a>
 
     - item: Snowboarding
       link:
@@ -44,6 +42,11 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: Applied Data Science 
+        university: <a href="https://eportfolio.mygreatlearning.com/michelle-m-hudson" target="_blank">Massachusetts Institute of Technology</a>
+        time: 2022 - Coursework included Data Analysis & Visualization, Linear & Logistic Regression, Neural Networks, and Recommendation Systems.
+        details: |
+
       - degree: MSc in Library and Information Science
         university: University of Washington
         time: 
