@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Michelle Hudson
@@ -68,28 +68,27 @@ experiences:
           - Analyzed usage of data catalog to determine cross-company team needs, gather feedback, and address issues.
           - Advanced the visibility and discovery of data by developing processes to streamline data collection, curation, and dissemination. 
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Data & Assessment Librarian
+        time: 2017 - 2022
+        company: Yale Law School
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Summary
+          - Led data and assessment efforts for the institution, including designing, distributing, and analyzing  surveys of the user populations.
+          - Built, documented, and visualized datasets from multiple sources using SQL, Python, R, OpenRefine, and Tableau in order to assess institutional data.
+          - Created reports and visualizations of data on services and collections to strategically communicate institutional activities to a diverse group of stakeholders.
+          - Instructed researchers on the discovery, collection, use, analysis, and management of data, software, programming tools, and other digital assets across the research lifecycle.
+          - Consulted one-on-one with researchers on designing, implementing, and completing studies requiring significant statistical or data-related research.
+
+      - role: Data Librarian for the Social & Natural Sciences
+        time: 2011 - 2017
+        company: Yale University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Summary
+          - Established and coordinated the university-wide Research Data Consultation Group to assist Yale researchers in the sciences and social sciences with data analysis and management at any point in their research.
+          - Collaborated with colleagues across Yale’s libraries to architect a digital repository system and write a digital preservation policy for born-digital and archival materials.
+          - Created and taught courses on research data management, both in general and for specific disciplines in collaboration with Yale faculty in astrophysics and political science. 
+          - Collaborated with the Provost’s Office to research, write, and support Yale’s official policy on Research Data and Materials.
+
 
 certifications:
       title: Certifications
@@ -135,92 +134,47 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is a short list of projects I've worked on. A more comprehensive portfolio page is under construction.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Monster Mashup 2015 Horror Business
+        link: "https://michellehudson.github.io/monstermashup2015/"
+        tagline: "Using Open Refine to clean and join data about horror films held in the Yale University Library VHS collection. An online accompaniment to a Halloween-themed data workshop hosted at Yale for several years."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Monster Mashup 2014 - Finding the Devil in Contemporary Music
+        link: "https://michellehudson.github.io/monstermashup2014/"
+        tagline: "Using Open Refine to clean and explore data within a dataset of 500,000 songs. An online accompaniment to a Halloween-themed data workshop hosted at Yale for several years."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Monster Mashup 2013 - Witch Trials
+        link: "https://michellehudson.github.io/monster_mashup/"
+        tagline: "Using Open Refine to clean, join, and explore data about witch trials in the US, Europe, and England. An online accompaniment to a Halloween-themed data workshop hosted at Yale for several years."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Research Data @ Yale
+        link: "https://researchdata.yale.edu/"
+        tagline: "I founded and coordinated Yale's Research Data Consultation Group during my time as Data Librarian. Research Data @ Yale was a university-wide group that provideed consultation on best practices, implemented data management services, and linked users to resources for assistance at any point in the data lifecycle. Several of our members also drafted and implemented Yale's official university policy on research data and materials."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Yale Day of Data
+        link: "https://elischolar.library.yale.edu/dayofdata/"
+        tagline: "I founded and chaired the Yale Day of Data Conference from 2013 - 2017. Day of Data brings together scholars from across academia, government, and industry to discuss the research data landscape at Yale and beyond. Videos of previous presentations are available on the conference website."
 
 publications:
-    title: Publications
+    title: Selected Publications & Presentations
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      A selected list of recent presentations and publications.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Developing ALLStAR with Community Participation - Challenges and Successes of the New Survey Instrument
+        link: "https://hdl.handle.net/2346/86523"
+        conference: AALL Spectrum, July/August 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Using the ALLStAR Official Survey to Tell Your Library’s Story
+        conference: American Association of Law Libraries. July 16, 2019
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Internal Assessment and Peer Benchmarking in Academic Law Libraries - The Advanced Session
+        conference: Half-day workshop. American Association of Law Libraries. July 14, 2018
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: Internal Assessment and Peer Benchmarking in Academic Law Libraries
+        conference: Full-day workshop. American Association of Law Libraries. July 15, 2017
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: Crowdsourcing Guidelines for a Successful Data Event
+        link: "https://osf.io/uwja6/"
+        conference: Research Data Access & Preservation Summit. May 2016. Atlanta, GA.
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
