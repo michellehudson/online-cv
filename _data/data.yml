@@ -25,12 +25,28 @@ sidebar:
       info:
         - item: Carpentries Instructor Certification
           link:  https://carpentries.org/
-        - item: Snowboarding
-          link:
 
-        - item: Cooking
-          link:
+        - item: Python for Everybody, University of Michigan
+          link: https://www.coursera.org/specializations/python
 
+        - item: Fundamentals of Collection Assessment, American Library Association
+          link: https://www.ala.org/alcts/confevents/upcoming/webcourse/fca/ol_templ
+    
+        - item: Advanced Legal Research, Yale Law School
+          link: 
+
+    languages:
+      title: Skills 
+      info:
+        - idiom: Data
+          level: Native
+
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
+          level: Professional
+        
 career-profile:
     title: Professional Summary
     summary: |
