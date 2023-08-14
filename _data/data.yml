@@ -21,20 +21,18 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
 career-profile:
-    title: Career Profile
+    title: Professional Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - Data and Information Scientist with over 12 years experience in enterprise-level and lab-level data management in science, medicine, social science, business, law, and industry.
+      - I'm committed to building, documenting, and maintaining processes and systems that support strategic organizational goals, unburden teams, and enable innovation.
+      - My passion for information access led me to earn a Master's Degree in Library and Information Science from the University of Washington, which gives me a unique perspective on curating and stewarding data and digital assets for both access and long-term preservation.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Library and Information Science
+        university: University of Washington
+        time: 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -43,9 +41,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Psychology & Biology
+        university: Pacific University
+        time: 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -56,23 +54,20 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Data Science Associate  
+        time: 2022 - 2023
+        company: Pitney Bowes
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Summary
+          - Worked across PB’s many lines of business to store, curate, and provide access to structured and unstructured data and information in corporate repositories in alignment with our data models.
+          - Worked with AWS, Snowflake, and SelectStar to build data domains with accompanying data dictionaries.
+          - Built taxonomies for classification of data products and information in cooperation with subject matter experts in several domains.
+          - Ingested and documented assets in Pitney Bowes’ data catalog, providing a single source of truth for business applications.
+          - Analyzed usage of data catalog to determine cross-company team needs, gather feedback, and address issues.
+          - Advanced the visibility and discovery of data by developing processes to streamline data collection, curation, and dissemination. 
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
