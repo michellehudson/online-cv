@@ -127,15 +127,15 @@ projects:
     intro: >
       This is a short list of projects I've worked on. A more comprehensive portfolio page is under construction.
     assignments:
-      - title: Monster Mashup 2015: Horror Business
+      - title: Monster Mashup 2015 - Horror Business
         link: "https://michellehudson.github.io/monstermashup2015/"
         tagline: "Using Open Refine to clean and join data about horror films held in the Yale University Library VHS collection. An online accompaniment to a Halloween-themed data workshop hosted at Yale for several years."
 
-      - title: Monster Mashup 2014: Finding the Devil in Contemporary Music
+      - title: Monster Mashup 2014 - Finding the Devil in Contemporary Music
         link: "https://michellehudson.github.io/monstermashup2014/"
         tagline: "Using Open Refine to clean and explore data within a dataset of 500,000 songs. An online accompaniment to a Halloween-themed data workshop hosted at Yale for several years."
 
-      - title: Monster Mashup 2013: Witch Trials
+      - title: Monster Mashup 2013 - Witch Trials
         link: "https://michellehudson.github.io/monster_mashup/"
         tagline: "Using Open Refine to clean, join, and explore data about witch trials in the US, Europe, and England. An online accompaniment to a Halloween-themed data workshop hosted at Yale for several years."
 
