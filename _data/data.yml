@@ -42,7 +42,7 @@ sidebar:
           level: Python, R, OpenRefine, SQL, SPSS, Tableau, NVivo, Qualtrics
 
         - idiom:  Academic, law, and business database searching
-          level: ProQuest, EBSC0, Westlaw, LexisNexis, Bloomberg Law, Factiva
+          level: ProQuest, EBSCO, Westlaw, LexisNexis, Bloomberg Law, Factiva
 
         - idiom: Business software, project planning, and research management
           level: Word, Excel, PowerPoint, EndNote, Zotero, Mendeley, OneNote, Microsoft Teams, Zoom
@@ -54,6 +54,14 @@ career-profile:
       - Data and Information Scientist with over 12 years experience in enterprise-level and lab-level data management in science, medicine, social science, business, law, and industry.
       - I'm committed to building, documenting, and maintaining processes and systems that support strategic organizational goals, unburden teams, and enable innovation.
       - My passion for information access led me to earn a Master's Degree in Library and Information Science from the University of Washington, which gives me a unique perspective on curating and stewarding data and digital assets for both access and long-term preservation.
+
+career-profile:
+    title: Professional Summary
+    summary: |
+      - Data and Information Scientist with over 12 years experience in enterprise-level and lab-level data management in science, medicine, social science, business, law, and industry.
+      - I'm committed to building, documenting, and maintaining processes and systems that support strategic organizational goals, unburden teams, and enable innovation.
+      - My passion for information access led me to earn a Master's Degree in Library and Information Science from the University of Washington, which gives me a unique perspective on curating and stewarding data and digital assets for both access and long-term preservation.
+
 
 education:
     title: Education
