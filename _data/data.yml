@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
+    position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -38,14 +38,15 @@ sidebar:
     languages:
       title: Skills 
       info:
-        - idiom: Data
-          level: Native
+        - idiom: Data cleaning, refining, collection, analysis, and visualization
+          level: Python, R, OpenRefine, SQL, SPSS, Tableau, NVivo, Qualtrics
 
-        - idiom: French
-          level: Professional
+        - idiom:  Academic, law, and business database searching
+          level: ProQuest, EBSC0, Westlaw, LexisNexis, Bloomberg Law, Factiva
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Business software, project planning, and research management
+          level: Word, Excel, PowerPoint, EndNote, Zotero, Mendeley, OneNote, Microsoft Teams, Zoom
+      
         
 career-profile:
     title: Professional Summary
