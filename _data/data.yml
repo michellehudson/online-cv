@@ -57,18 +57,25 @@ career-profile:
 
 
 career-profile2:
-    title: Professional Summary
+    title: Demonstrated ability to 
     summary: |
-      - Data and Information Scientist with over 12 years experience in enterprise-level and lab-level data management in science, medicine, social science, business, law, and industry.
-      - I'm committed to building, documenting, and maintaining processes and systems that support strategic organizational goals, unburden teams, and enable innovation.
-      - My passion for information access led me to earn a Master's Degree in Library and Information Science from the University of Washington, which gives me a unique perspective on curating and stewarding data and digital assets for both access and long-term preservation.
+      - Learn quickly, think creatively, and work collaboratively
+      - Manage projects with multiple stakeholders
+      - Build and maintain relationships with external stakeholders
+      - Communicate technical details to a non-technical audience
+      - Develop and implement enterprise-wide data initiatives
+      - Curate and publish diverse data and research outputs for complex organizations
 
 career-profile3:
-    title: Professional Summary
+    title: Skills and proficiencies include
     summary: |
-      - Data and Information Scientist with over 12 years experience in enterprise-level and lab-level data management in science, medicine, social science, business, law, and industry.
-      - I'm committed to building, documenting, and maintaining processes and systems that support strategic organizational goals, unburden teams, and enable innovation.
-      - My passion for information access led me to earn a Master's Degree in Library and Information Science from the University of Washington, which gives me a unique perspective on curating and stewarding data and digital assets for both access and long-term preservation.
+      - Expertise in data curation best practices, data documentation, data modeling, and database management systems
+      - Strong written and verbal communication, attention to detail, analytical thinking, and problem-solving abilities
+      - Using Python (pandas, numpy, scikit-learn, keras, tensorflow), R, APIs, SQL, and Tableau to clean, investigate, analyze, and visualize data
+      - Master Data Management (MDM) and data governance best practices
+      - Digital Asset Management (DAM) tools and best practices
+      - Expert knowledge of statistical and related research methodologies (descriptive and inferential, quantitative and qualitative)
+      - Familiarity with AWS, Snowflake, Jira, GitHub, Jupyter notebooks, Microsoft Office applications, and other collaborative tools
 
 
 education:
